@@ -14,8 +14,8 @@ const startTabs = () => {
                     label: "Find Place",
                     title: "Find Place",
                     icon: sources[0],
-                    navigatorButton: {
-                        leftButton: [
+                    navigatorButtons: {
+                        leftButtons: [
                             {
                                 icon: sources[2],
                                 title: "Menu",
@@ -29,8 +29,8 @@ const startTabs = () => {
                     label: "Share Place",
                     title: "Share Place",
                     icon: sources[1],
-                    navigatorButton: {
-                        leftButton: [
+                    navigatorButtons: {
+                        leftButtons: [
                             {
                                 icon: sources[2],
                                 title: "Menu",
